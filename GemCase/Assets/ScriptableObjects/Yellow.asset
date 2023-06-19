@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64f300a56166d50478e17c9c9df30f46, type: 3}
+  m_Name: Yellow
+  m_EditorClassIdentifier: 
+  _gemPrefab: {fileID: 8861440675208863082, guid: 2e0d8af7539451e419897ca052803d7c,
+    type: 3}
+  _gemType: 0
+  _gemSprite: {fileID: 21300000, guid: 2400e54790aa1454dafeef43989e490b, type: 3}
